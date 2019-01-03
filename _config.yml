@@ -4,19 +4,30 @@
 
 # Site
 title: 上班一点都不好玩
-subtitle: 两个来自IT界的佛系程序猿
+subtitle: 只要有你在，我无所不能
 description: 就算全世界与你为敌，我也会站在你这一边
-keywords:
+keywords: "blog"
 author: Lay
 language: zh_Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.alwayslay.com
+url: https://blog.alwayslay.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :translate_title.html
 permalink_defaults:
+
+translate_title:
+  translate_way: baidu_with_appid  # google,youdao,baidu_with_appid,baidu_no_appid
+  is_need_proxy: false     # true | false
+  baidu_appid: 20180316000136660
+  baidu_appkey: j7UdgS_nxhObNA6NTVYF
+
+nofollow:
+  enable: true
+  exclude:
+  - blog.alwayslay.com
 
 # Sitemap
 sitemap:
@@ -60,7 +71,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: categorized
 category_map:
 tag_map:
 

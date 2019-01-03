@@ -1,5 +1,6 @@
 ---
-title: about
+title: 关于我
+translate_title: about-me
 date: 2018-12-24 21:47:50
 ---
 ## 关于我
