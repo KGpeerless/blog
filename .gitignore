@@ -4,3 +4,5 @@ public/
 .DS_Store
 debug.log
 themes/
+db.json
+package-lock.json
