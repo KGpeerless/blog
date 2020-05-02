@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.alwayslay.com
+url: https://www.alwayslay.com
 root: /
 permalink: :translate_title.html
 permalink_defaults:
@@ -24,10 +24,19 @@ translate_title:
   baidu_appid: 20180316000136660
   baidu_appkey: j7UdgS_nxhObNA6NTVYF
 
+# translate_title:
+#   translate_way: google  # google,youdao,baidu_with_appid,baidu_no_appid
+#   youdao_api_key: '' # Your youdao_api_key
+#   youdao_keyfrom: xxxx-blog # Your youdao_keyfrom
+#   is_need_proxy: false     # true | false
+#   proxy_url: http://localhost:50018 # Your proxy_url
+#   baidu_appid: '' # Your baidu_appid
+#   baidu_appkey: '' # Your baidu_appkey
+
 nofollow:
   enable: true
   exclude:
-  - blog.alwayslay.com
+  - www.alwayslay.com
 
 # Sitemap
 sitemap:
@@ -96,7 +105,7 @@ theme: ocean
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: 106.12.31.140
+  host: 180.76.121.57
   user: root
   root: /www/wwwroot/lay_blog
   port: 22

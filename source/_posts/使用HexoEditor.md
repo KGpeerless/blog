@@ -7,8 +7,12 @@ tags:
   - Electron
 categories:
   - 前端
-translate_title: using-hexo-editor
-keywords: [hexo-editor, hexo, hexo-admin, hexo后台]
+translate_title: using-the-hexoeditor
+keywords:
+  - hexo-editor
+  - hexo
+  - hexo-admin
+  - hexo后台
 description: hexo-editor，hexo，hexo后台，markdown客户端，可以上传图片至七牛云、腾讯云，一键部署
 date: 2018-12-26 16:23:04
 ---

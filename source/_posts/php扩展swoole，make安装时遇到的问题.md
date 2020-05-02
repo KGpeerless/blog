@@ -12,7 +12,7 @@ tags:
   - php
 categories:
   - php
-translate_title: 'php-extends-swoole,-make-installation-problems-encountered'
+translate_title: problems-encountered-during-the-installation-of-php-extension-swoole-and-make
 date: 2019-01-16 14:50:44
 ---
 使用的系统是mac，每个人安装时可能都不一样，以下是我碰到的问题
