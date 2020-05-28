@@ -5,9 +5,11 @@ keywords:
   - Laravel
   - Eloquent
   - Route
+  - PHP
 description: 记录平时工作中用到的一些解决问题的方法，Eloquent的操作与Route的操作
 tags:
   - Laravel
+  - PHP
   - Eloquent
   - Route
 categories:
