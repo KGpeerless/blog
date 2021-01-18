@@ -7,7 +7,7 @@ tags:
   - Electron
 categories:
   - 前端
-translate_title: using-the-hexoeditor
+translate_title: using-hexoeditor
 keywords:
   - hexo-editor
   - hexo

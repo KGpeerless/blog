@@ -105,7 +105,7 @@ theme: ocean
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: 180.76.121.57
+  host: 117.50.66.152
   user: root
   root: /www/wwwroot/lay_blog
   port: 22

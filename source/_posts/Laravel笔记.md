@@ -1,15 +1,15 @@
 ---
 title: Laravel笔记
-top: 100
+top: 0
 keywords:
   - Laravel
   - Eloquent
   - Route
-  - PHP
+  - php
 description: 记录平时工作中用到的一些解决问题的方法，Eloquent的操作与Route的操作
 tags:
   - Laravel
-  - PHP
+  - php
   - Eloquent
   - Route
 categories:

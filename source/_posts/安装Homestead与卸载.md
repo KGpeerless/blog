@@ -16,7 +16,7 @@ tags:
   - VirtualBox
 categories:
   - 虚拟机
-translate_title: installing-homestead-and-uninstalling
+translate_title: install-homestead-and-uninstall
 date: 2019-02-15 16:39:39
 ---
 
