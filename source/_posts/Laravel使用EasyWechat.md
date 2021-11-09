@@ -2,16 +2,16 @@
 title: Laravel使用EasyWechat
 top: 0
 keywords:
-  - PHP
+  - php
   - Laravel
   - EasyWechat
 description: 记录Laravel使用EasyWechat的经历
 tags:
-  - PHP
+  - php
   - Laravel
   - EasyWechat
 categories:
-  - PHP
+  - php
   - Laravel
   - EasyWechat
 translate_title: laravel-uses-easywechat

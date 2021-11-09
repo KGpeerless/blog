@@ -15,7 +15,7 @@ tags:
 categories:
   - 服务器
 translate_title: >-
-  how-to-apply-for-ssl-certificate-and-make-google-browser-visit-website-with-security-lock
+  how-to-apply-for-ssl-certificate-and-let-google-browser-access-the-website-with-security-lock
 date: 2018-12-29 00:05:47
 ---
 

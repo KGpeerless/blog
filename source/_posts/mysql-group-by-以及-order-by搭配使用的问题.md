@@ -10,8 +10,9 @@ tags:
   - sql
 categories:
   - mysql
-translate_title: problems-of-using-mysql-group-by-and-order-by-together
+translate_title: mysql-group-by-and-order-by-are-used-together
 date: 2020-09-02 16:55:41
+hide: true
 ---
 近期做后台时发现的mysql “group by” 与 “order by” 搭配使用的问题
 <!-- more -->

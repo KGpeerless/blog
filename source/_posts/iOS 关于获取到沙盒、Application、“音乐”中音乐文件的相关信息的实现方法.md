@@ -9,7 +9,7 @@ tags:
 categories:
   - iOS
 translate_title: >-
-  how-to-get-the-information-of-music-files-in-sandbox,-application-and-music-by-ios
+  ios-implementation-method-for-obtaining-relevant-information-of-music-files-in-sandbox,-application-and-music
 date: 2020-11-25 14:02:34
 ---
 

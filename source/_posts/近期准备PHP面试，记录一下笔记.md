@@ -1,19 +1,19 @@
 ---
 title: 近期准备PHP面试，记录一下笔记
-top: 100
+top: 0
 keywords:
-  - PHP
+  - php
   - 面试
 description: 最近准备面试，复习一下基础知识
 tags:
   - 面试
-  - PHP
+  - php
   - Redis
   - Mysql
 categories:
-  - PHP
+  - php
   - 面试
-translate_title: prepare-for-the-php-interview-in-the-near-future-and-take-notes
+translate_title: prepare-php-interview-in-the-near-future-and-take-notes
 date: 2021-03-17 23:29:04
 ---
 
